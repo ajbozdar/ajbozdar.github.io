@@ -1,12 +1,6 @@
-# yaBozdar.com
-:zap: Personal Website and Blog  
+# aj.Bozdar.im
+:zap: Base theme for my personal website
 
-## Abdujabbar Bozdar's Personal Website About STEM
+**v0.1.** Merely a skeleton. 
 
-**v0.1.** This is the theme for my website. 
-
-**&copy;** 2003 - 2024 [yabozdar.com](https://yabozdar.com BY-NC-SA CC 4.0 International.
-
-<strong>Mastodon:</strong> <a rel="me" href="https://fosstodon.org/@yabozdar">@yabozdar</a>
-**Telegram:** [t.me/yabozdar](https://t.me/yabozdar)
-**Twitter:** [twitter.com/yabozdar](https://twitter.com/yabozdar)
+**&copy;** 2003 - 2025 [aj.bozdar.im](https://aj.bozdar.im BY-NC-SA CC 4.0 International.
