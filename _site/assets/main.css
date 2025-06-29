@@ -1,124 +1,43 @@
-/* Global Styles */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
-    font-family: 'Roboto', sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f2f2f2;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
 }
 
-/* Header Styles */
-header {
-    background-color: #007bff;
-    color: #fff;
-    padding: 10px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
 }
 
-.logo {
-    font-size: 20px;
-    font-weight: bold;
+input, button, textarea, select {
+  font: inherit;
 }
 
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
 }
 
-nav li {
-    margin-left: 10px;
+p {
+  text-wrap: pretty;
+}
+h1, h2, h3, h4, h5, h6 {
+  text-wrap: balance;
 }
 
-nav a {
-    color: #fff;
-    text-decoration: none;
-    font-size: 14px;
-}
 
-/* Main Content Styles */
-main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 10px;
-}
-
-.post {
-    background-color: #fff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    border-radius: 4px;
-    padding: 10px;
-    margin: 10px 0;
-    width: 100%;
-    max-width: 400px;
-}
-
-.post h2 {
-    color: #007bff;
-    margin-top: 0;
-    font-size: 18px;
-}
-
-.post p {
-    color: #333;
-    line-height: 1.5;
-    font-size: 14px;
-}
-
-/* Footer Styles */
-footer {
-    background-color: #007bff;
-    color: #fff;
-    text-align: center;
-    padding: 10px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    font-size: 12px;
-}
-
-/* Tablet and Desktop Styles */
-@media (min-width: 768px) {
-    header {
-        padding: 20px;
-    }
-
-    .logo {
-        font-size: 24px;
-    }
-
-    nav li {
-        margin-left: 20px;
-    }
-
-    nav a {
-        font-size: 16px;
-    }
-
-    main {
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: center;
-        padding: 20px;
-    }
-
-    .post {
-        width: 300px;
-        margin: 20px;
-    }
-
-    .post h2 {
-        font-size: 20px;
-    }
-
-    .post p {
-        font-size: 16px;
-    }
-
-    footer {
-        font-size: 14px;
-    }
-}
+font-family: 'Gentium Book', charter, georgia, serif;
+font-family: Inter, Roboto, 'Helvetica Neue', 'Segoe UI', sans-serif;
+font-family: 'JetBrains Mono', monospace; 
