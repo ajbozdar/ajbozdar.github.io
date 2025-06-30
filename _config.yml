@@ -1,10 +1,10 @@
 # Site settings
-title: AJ.Bozdar.im
+title: AJ.bozdar.im
 image: '/images/abdul-jabbar-home.webp'
 description: > 
-  Abdul-Jabbar Bozdar's Personal Website about STEM
+  Abdul-Jabbar Bozdar's Personal Website 
 baseurl: ""
-url: "https://aj.bozdar.im"
+url: "https://imbozdar.bitbucket.io"
 color_scheme: auto
 content: 
   page: website
@@ -13,7 +13,7 @@ content:
 # Author
 author:
   name: Abdul-Jabbar Bozdar
-  url: https://aj.bozdar.im
+  url: https://imbozdar.bitbucket.io
   # email: var+blog@postdar.com
   description: I am a computer programmer making reliable, secure, and performant 
     systems. This site is for recording my solutions to problems in computer programming.
@@ -46,7 +46,7 @@ exclude:
   - images/not-in-use/
 
 # Permalinks
-permalink: /:category/:title/
+permalink: /:categories/:title/
 paginate:  8
 paginate_path: "posts/:num/"
 
