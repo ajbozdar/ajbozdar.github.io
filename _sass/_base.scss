@@ -1,8 +1,13 @@
-@use 'variables' as v;
+@use 'variables' as var;
 
 html {
   box-sizing: border-box;
-  font-size: v.$size-font-base;
+  font-size: 18px;
+}
+@media screen and (min-width: 783px) {
+	html {
+		font-size: 20px;
+	}
 }
 
 *, *::before, *::after {
@@ -15,10 +20,16 @@ html {
 }
 
 body {
-  font-family: v.$stack-sans;
+  font-family: var.$family-sans;
   font-size: 1rem;
-  line-height: v.$height-line-base; 
+  line-height: 1.5;
+  background-color: var.$color-bg;
+  margin: 2rem 1rem;
   -webkit-font-smoothing: antialiased;
+}
+::selection {
+  background-color: #ff0;
+  color: #000;
 }
 
 img, picture, video, canvas, svg {
@@ -38,11 +49,15 @@ p {
   text-wrap: pretty;
 }
 h1, h2, h3, h4, h5, h6 {
+  clear: both;
   text-wrap: balance;
 }
 
+// reset ends here
 
-
+h2, h3, h4, h5, h6, .site-branding {
+  font-family: var.$family-serif;
+}
 
 
 
