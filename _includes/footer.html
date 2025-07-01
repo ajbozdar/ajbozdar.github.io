@@ -1,0 +1,21 @@
+<footer>
+  <nav>
+    <a href="{{site.url}}/">Home</a> | 
+    <a href="{{site.url}}/blog/">Archives</a> | 
+    <!-- <a href="{{ '/uses/' | prepend: site.url }}">Uses</a> |  -->
+    <a href="{{site.url}}/privacy/">Privacy</a> | 
+    <!-- <a href="{{site.url}}/subscribe/">Subscribe</a> |  -->
+    <a href="{{ '/feed.xml' | prepend: site.url }}">  feed.xml</a>
+  </nav>
+  <span class="spanify">
+    &copy; 2003 - <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> 
+    BY-NC-SA CC 4.0 {{site.author.name}} | <a href="{{site.url}}/about/">{{ site.title }}</a>
+  </span>
+  <p class="spanify">
+    Built with <a href="https://jekyllrb.com/philosophy/">Jekyll</a> ❤️ 
+    on a Unix machine ⚡
+  </p>
+  <!-- <a href="https://nonbot.org/pledged/view/9ccdea96-c939-462a-ae6f-1655f61e29d6" target="_blank">
+	<img style="height:128px;margin-top:10px;margin-bottom:10px;" src="https://nonbot.org/images/nonbot_pledged_logo.svg" alt="Human-made Content">
+</a> -->
+</footer>

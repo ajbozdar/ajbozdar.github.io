@@ -24,17 +24,27 @@ body {
   font-size: 1rem;
   line-height: 1.5;
   background-color: var.$color-bg;
-  margin: 2rem 1rem;
+  margin: 0.5rem 1.2rem;
   -webkit-font-smoothing: antialiased;
+}
+@media screen and (min-width: 783px) {
+	body {
+		margin: 1rem 10rem;
+	}
 }
 ::selection {
   background-color: #ff0;
   color: #000;
 }
 
+ol, ul {
+  list-style: none;
+}
+
 img, picture, video, canvas, svg {
   display: block;
   max-width: 100%;
+  height: auto;
 }
 
 input, button, textarea, select {
@@ -59,8 +69,62 @@ h2, h3, h4, h5, h6, .site-branding {
   font-family: var.$family-serif;
 }
 
+a {
+  color: var.$blue;
+  text-decoration: none;
+  border-bottom: 1px solid var.$blue;
+}
+a:hover {
+  border-bottom: 1px solid red;
+}
 
+.site-branding {
+  margin-bottom: 1.2rem;
+}
+.site-title {
+  font-size: 2.5rem;
 
+}
+.site-description {
+  color: var.$color-pitch;
+  font-style: italic;
+}
+nav {
+  overflow: auto;
+  margin: 1rem auto;
+
+  a {
+    font-size: 1.2rem;
+    font-weight: 300;
+    margin-right: 0.9rem;
+  }
+}  
+
+.hr {
+  border: 0;
+  border-top: 0.1px solid var.$blue;
+  margin: 2.5rem 0;
+}
+
+footer {
+  border: 0;
+  border-top: 0.1px solid var.$color-pitch;
+  font-weight: 200;
+  padding: 0.25rem 0;
+  text-align: center;
+
+  .spanify {
+    color: var.$color-pitch;
+    font-size: .75rem;
+
+  }
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    border-bottom: 1px solid var.$blue;
+  }
+}
 
 .note {
   margin: 2rem 0;
