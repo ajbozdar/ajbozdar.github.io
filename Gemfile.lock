@@ -73,9 +73,6 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-archives (2.3.0)
-      jekyll (>= 3.6, < 5.0)
-    jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
     jekyll-watch (2.2.1)
@@ -97,8 +94,6 @@ GEM
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
-    rb-kqueue (0.2.8)
-      ffi (>= 0.5.0)
     rexml (3.4.1)
     rouge (4.5.2)
     safe_yaml (1.0.5)
@@ -155,16 +150,12 @@ PLATFORMS
   x86-linux-gnu
   x86-linux-musl
   x86_64-darwin
-  x86_64-freebsd-14
   x86_64-linux-android
   x86_64-linux-gnu
   x86_64-linux-musl
 
 DEPENDENCIES
   jekyll
-  jekyll-archives
-  jekyll-paginate
-  rb-kqueue (>= 0.2)
 
 BUNDLED WITH
-   2.6.9
+   2.7.0
