@@ -1,3 +1,7 @@
+url: ajbozdar.github.io
+title: Abdul-Jabbar Bozdar's Experiments
+permalink: /:title/
+
 collections:
   authors:
     output: true
