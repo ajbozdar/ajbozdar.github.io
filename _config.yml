@@ -1,22 +1,49 @@
-url: https://ajbozdar.github.io
-title: Abdul-Jabbar Bozdar's Experiments
-permalink: /:title/
+# Site settings
+title: AJ.Bozdar.im
+description: Abdul-Jabbar Bozdar's Personal Website 
+image: "/images/abdul-jabbar-home.webp"
+url: "https://ajbozdar.github.io/"
+baseurl: ""
+content: 
+  page: website
+  post: article
 
-collections:
-  authors:
-    output: true
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+# Author
+author:
+  name: Abdul-Jabbar Bozdar
+  url: https://ajbozdar.github.io/
+  description: I am a computer programmer writing reliable, secure, and performant
+    code. This site is for recording my solutions to problems in STEM.
+  image: "/photos/abdul-jabbar-bozdar-profile.webp"
+  bio: My name is Abdul-Jabbar Bozdar. I currently work in software development, with a background in Electrical and Computer Engineering. 
+  mastodon: "https://fosstodon.org/@ajb"
+  twitter: "ajbozdar"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+include:
+  - _pages
+exclude: 
+  - .directory
+  - .ruby-lsp
+  - Gemfile
+  - Gemfile.lock 
+  - LICENSE
+  - CHANGELOG 
+  - README.md 
+  - test.html
+  - snippets.txt 
+  - pattern.txt
+  - images/not-in-use/
+
+# Permalinks
+permalink: /:categories/:title/
+#paginate: 7
+#paginate_path: "posts/more-posts-:num/"
+
+# Gems
+plugins:
+  - jekyll-paginate

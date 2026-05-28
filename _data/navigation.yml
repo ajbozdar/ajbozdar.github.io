@@ -2,7 +2,9 @@
   link: /
 - name: About
   link: /about/
+- name: Work
+  link: /work/
 - name: Posts
   link: /posts/
-- name: Authors
-  link: /authors/
+- name: Pages
+  link: /more-pages/

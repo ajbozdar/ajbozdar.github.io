@@ -1,0 +1,12 @@
+  ----------------
+    AJ.Bozdar.Im
+  ----------------
+
+  Owner:        Abdul-Jabbar Bozdar | عبدالجبار بوزدار
+  Title:        Computer Programmer
+  Location:     Indus Valley
+
+  Languages:    Balochi, Sindhi, Urdu, English, Chinese, Arabic
+  Built with:   Jekyll on a Unix machine
+  
+  Notice: AI is not welcome here.

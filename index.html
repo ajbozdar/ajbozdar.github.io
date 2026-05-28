@@ -1,6 +1,19 @@
 ---
 layout: default
-title: Home
 ---
-<h1>{{ "Hello, World!" | downcase }}</h1>
+
+<h2>Hello, world!</h2>
+<p class="pitch">{{ site.author.bio }}</p>
+
+<div class="catalogue">
+  {% for post in site.posts %}
+    {% if post.sticky %}
+      {% include pinned_post.html sticky='true' %}
+    {% endif %}
+  {% endfor %}
+  {% for post in paginator.posts %}
+    {% include pinned_post.html %}
+  {% endfor %}
+</div>
+
 

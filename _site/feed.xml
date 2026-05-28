@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AJ.Bozdar.im</title>
+    <description>Abdul-Jabbar Bozdar&apos;s Personal Website</description>
+    <link>https://ajbozdar.github.io//</link>
+    <author>
+    <name>Abdul-Jabbar Bozdar</name>
+    <uri>https://ajbozdar.github.io//about/</uri>
+    </author>
+    <icon>https://ajbozdar.github.io//favicon.ico</icon>
+    <rights>© 2003-2026 Abdujabbar Bozdar</rights>
+    <atom:link href="https://ajbozdar.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 28 May 2026 13:07:50 +0500</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 13:07:50 +0500</lastBuildDate>
+    
+      <item turbo="true">
+        <title>FreeBSD Graceful Shutdown Due to Power Loss</title>
+        <description>BIOS has little power to override operating system settings. Therefore, BIOS cannot trigger the shutdown if ACPI is set to NONE.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Tue, 01 Jul 2025 23:01:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/freebsd-shutdown/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/freebsd-shutdown/</guid>
+        
+        <category>FreeBSD</category>
+        
+        <category>unix</category>
+        
+        <category>computers</category>
+        
+        
+        <category>technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>I am using FreeBSD now.</title>
+        <description>I have begun using FreeBSD on my personal computer at home. FreeBSD is an open source Unix-like operating system. It was ZFS that pushed me to use FreeBSD.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Thu, 26 Jun 2025 11:12:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/using-freebsd/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/using-freebsd/</guid>
+        
+        <category>essay</category>
+        
+        <category>programming</category>
+        
+        <category>hobby</category>
+        
+        <category>study</category>
+        
+        
+        <category>technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>Plasma Desktop Experience on Fedora</title>
+        <description>I have been running the plasma shell for a few weeks. My experience has been fantastic. I am afraid I might abandon Gnome and move to the Plasma Desktop.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Wed, 02 Oct 2024 21:45:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/fedora-plasma-desktop-experience/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/fedora-plasma-desktop-experience/</guid>
+        
+        <category>KDE</category>
+        
+        <category>fedora</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>Tuned-PPD: The Fedora Test Days</title>
+        <description>I participated in the Fedora Tuned QA test day. It was a pleasant experience to help out the community.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Tue, 01 Oct 2024 19:46:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/fedora-test-days/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/fedora-test-days/</guid>
+        
+        <category>fedora</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>deSec: The New Secure DNS For Everyone</title>
+        <description>I found deSec DNS service about two months ago. It's a security first DNS hosting service that is simply the best.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Mon, 30 Sep 2024 18:56:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/desec-dns-hosting-service/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/desec-dns-hosting-service/</guid>
+        
+        <category>systems</category>
+        
+        <category>networking</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>No Input Output Audio Device Detected on Fedora</title>
+        <description>I lost audio connection to D-bus while finding an alternate media player to Celluloid on Fedora.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Sun, 29 Sep 2024 16:05:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/no-input-output-audio-device-detected/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/no-input-output-audio-device-detected/</guid>
+        
+        <category>fedora</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>How To Speed Up Jekyll Build Time?</title>
+        <description>No software is perfect and Jekyll, as a static site generator, is not immune to that computing law.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Fri, 06 Sep 2024 09:30:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/how-to-speed-up-jekyll-build-time/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/how-to-speed-up-jekyll-build-time/</guid>
+        
+        <category>programming</category>
+        
+        <category>jekyll</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>The Fountain Pen</title>
+        <description>Dollar's Fountain Pens were famous in my high school. After 20 years, I bought a new one today. But, there was another popular fountain pen too.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Wed, 04 Sep 2024 22:03:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//diary/fountain-pen/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//diary/fountain-pen/</guid>
+        
+        <category>hobby</category>
+        
+        
+        <category>Diary</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>C2: Taking English Language Skills To The Next Level</title>
+        <description>My existing English language level is C1, according to CEFR. Now, I am taking the language skills on a par with native speakers.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Mon, 02 Sep 2024 11:39:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//diary/taking-english-language-skills-next-level/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//diary/taking-english-language-skills-next-level/</guid>
+        
+        <category>hobby</category>
+        
+        
+        <category>Diary</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>The Screenshot Saturday</title>
+        <description>Today is Saturday, and I am sharing some nice screenshots of my phone. My computer and phone both are running light mode now.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Sat, 31 Aug 2024 17:04:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/screenshot-saturday/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/screenshot-saturday/</guid>
+        
+        <category>social</category>
+        
+        <category>hobby</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>Gnome: The Light Mode</title>
+        <description>The Gnomic darkness descended upon me in 2018. I took the road on my own and walked all alone.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Thu, 29 Aug 2024 10:16:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/gnome-light-mode/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/gnome-light-mode/</guid>
+        
+        <category>gnome</category>
+        
+        <category>video</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>Mnemonics: Recall Things the Creative Way</title>
+        <description>Do you forget while working or find difficult to recall things? I will share with you my one tip to save you from the future trouble once for all.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Thu, 22 Aug 2024 18:08:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//work/recall-things-creative-way/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//work/recall-things-creative-way/</guid>
+        
+        <category>tips</category>
+        
+        <category>programming</category>
+        
+        
+        <category>Work</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>Chrome: The Default Web Browser</title>
+        <description>Microsoft's Internet Explorer was my first browser. Then came the Mozilla, and after that was the Chrome.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Wed, 21 Aug 2024 08:15:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/default-chrome/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/default-chrome/</guid>
+        
+        <category>internet</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>I died as a mineral.</title>
+        <description>In this poem, Molana Rumi shows where do humans go when they die. No matter what form do living beings live into, they have to return somewhere in the end.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Sun, 18 Jun 2023 18:18:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//diary/i-died-as-a-mineral/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//diary/i-died-as-a-mineral/</guid>
+        
+        <category>poetry</category>
+        
+        <category>rumi</category>
+        
+        
+        <category>Diary</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>In The Beginning</title>
+        <description>A 10 bucks web hosting promotion lured me into the world of web development, and I could not resist the temptation.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Tue, 31 Aug 2021 08:18:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/beginning-web-development/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/beginning-web-development/</guid>
+        
+        <category>programming</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>The Return of Gnome</title>
+        <description>Gnome finds back the home! Canonical decides to drop Unity and adopts the desolated baby Gnome again. I am riding the bandwagon.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Sat, 28 Apr 2018 13:15:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/gnome-on-ubuntu/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/gnome-on-ubuntu/</guid>
+        
+        <category>gnome</category>
+        
+        <category>ubuntu</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>The Fedora Trials</title>
+        <description>I tried Fedora OS, as an alternate distribution to Ubuntu. To do so, I ran Fedora 26 in VirtualBox for the first time.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Wed, 29 Nov 2017 13:15:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/trying-fedora/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/trying-fedora/</guid>
+        
+        <category>fedora</category>
+        
+        <category>gnome</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>Why Do We Need Music?</title>
+        <description>Why do we need music? Is the traditional music of a country more important than the international music that is heard everywhere nowadays?</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Sun, 16 Apr 2017 13:28:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//ielts/we-need-music/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//ielts/we-need-music/</guid>
+        
+        <category>essay</category>
+        
+        <category>music</category>
+        
+        
+        <category>IELTS</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>Kubuntu is Better than Windows.</title>
+        <description>This was my second time trying Kubuntu on a virtual machine. I used Oracle's VirtualBox to run Kubuntu. I wanted to see if it was time to switch to Plasma.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Thu, 17 Nov 2016 20:15:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/kubuntu/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/kubuntu/</guid>
+        
+        <category>KDE</category>
+        
+        <category>ubuntu</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>A Better Ubuntu in 2016</title>
+        <description>Ubuntu has evolved to become a better operating system in recent days. Unity can be improved, but the pesky Amazon adverts must go.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Wed, 18 May 2016 13:15:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/better-ubuntu/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/better-ubuntu/</guid>
+        
+        <category>ubuntu</category>
+        
+        <category>unity</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>In The Bleak Mid Winter</title>
+        <description>The Bleak Mid Winter is C.G. Rossetti's poem. This poem warms up the heart right in the middle of winter.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Sun, 15 Dec 2013 23:23:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//diary/in-the-bleak-mid-winter-rossetti/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//diary/in-the-bleak-mid-winter-rossetti/</guid>
+        
+        <category>poetry</category>
+        
+        
+        <category>Diary</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>A Continual Autumn</title>
+        <description>This is an exceptional poem written by Molana Jalal al-Din Muhammad Rumi. He was a saint of Persian origin, but lived most of his life in Konya, Turkiye.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Mon, 16 Sep 2013 08:18:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//diary/continual-autumn/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//diary/continual-autumn/</guid>
+        
+        <category>poetry</category>
+        
+        
+        <category>Diary</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>Ubuntu Introduces Unity</title>
+        <description>Ubuntu introduces a new desktop environment. It is called Unity, and I like it for a few reasons.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Sat, 05 May 2012 13:15:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/ubuntu-unity-desktop/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/ubuntu-unity-desktop/</guid>
+        
+        <category>ubuntu</category>
+        
+        <category>unity</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>The Invisible Foot Fungus</title>
+        <description>The Foot fungus is a terrible thing. In my case, it made a lot of smell and itching. This is not a medical advice, rather a personal note.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Fri, 24 Feb 2012 18:08:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//life/invisible-foot-fungus/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//life/invisible-foot-fungus/</guid>
+        
+        <category>tips</category>
+        
+        
+        <category>Life</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>Found Ubuntu Pre-installed</title>
+        <description>I bought a new laptop, and it came with Ubuntu pre-installed. My Dell Vostro is running Ubuntu 10.04 LTS.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Sun, 25 Sep 2011 13:15:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/ubuntu-pre-installed/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/ubuntu-pre-installed/</guid>
+        
+        <category>ubuntu</category>
+        
+        <category>gnome</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>This is Ubuntu.</title>
+        <description>We got a new PC at home. I am exploring an operating system using a live CD. This operating system is Ubuntu.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Thu, 12 Apr 2007 13:15:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/ubuntu/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/ubuntu/</guid>
+        
+        <category>unix</category>
+        
+        <category>ubuntu</category>
+        
+        <category>gnome</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>All About Algorithms and Their Designs</title>
+        <description>In computer programming, algorithms are plans that we carefully craft before implementing the solution in our code.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Sun, 12 Mar 2006 18:38:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/all-about-algorithms-and-their-designs/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/all-about-algorithms-and-their-designs/</guid>
+        
+        <category>programming</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>My First C Program</title>
+        <description>I learned about programming for the first time in senior high school. It was awesome to see a blue screen and so much coloured code.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Sat, 03 Sep 2005 19:45:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//technology/my-first-c-program/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//technology/my-first-c-program/</guid>
+        
+        <category>programming</category>
+        
+        <category>C</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+  </channel>
+</rss>

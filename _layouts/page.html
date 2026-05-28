@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<section>
+  {% if page.url != "/" %}<h1>{{ page.title }}</h1>{% endif %}
+  {% if page.description != null %}<p class="pitch">{{ page.description | escape}}</p>{% endif %}
+<figure>
+  {% if page.image != null %}
+  <img src="{{site.url}}{{page.image}}" alt="{{page.title}} on {{ site.title }}" 
+    loading="lazy" width="920px" height="auto">
+  {% endif %}
+</figure>
+
+{{ content }}
+
+</section>
+
+<section class="recent-post-style">
+<h4>Some Recent Posts For You: 📚</h4>
+<ul>
+  {% for post in site.posts limit:4 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <small>on {{ post.date | date: "%b %-d, %Y" }}</small>
+    </li>
+  {% endfor %}
+</ul>
+</section>

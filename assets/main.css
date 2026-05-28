@@ -1,0 +1,280 @@
+:root {
+  --title-font: "Gentium Book", serif;
+  --page-font: Inter, sans-serif; 
+  --code-font: "JetBrains Mono", monospace;
+  --root-font: 16px;
+  --line-height: 1.6;
+  --bg: #f7f5f3;
+  --body: #111; 
+  --links: #3858e9;
+  --gray: #777;
+  --code: #d14;
+
+  --border: 1px solid var(--links);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: var(--page-font);
+  font-size: var(--root-font);
+  font-size-adjust: ex-height 0.5;
+  -webkit-text-size-adjust: 100%;
+  line-height: var(--line-height);
+}
+@media (min-width: 38em){
+  html {
+    font-size: 18px;
+  }
+}
+
+body {
+    max-width: 60rem;
+    padding: 1.25rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: var(--bg);
+}
+
+header {
+  margin-bottom: 1rem;
+}
+nav > a {
+  color: var(--body);
+  font-size: 1.1rem;
+  font-weight: 300;
+  margin-right: 1rem;
+  border: none;
+}
+a:hover,
+a:focus {
+  border: none;
+}
+
+/* generic liks */
+a {
+  color: var(--links);
+  text-decoration: none;
+  border-bottom: var(--border);
+  cursor: pointer;
+}
+a:hover,
+a:focus {
+  border-bottom: 2px solid var(--links);
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0.5rem;
+  font-family: var(--title-font);
+  font-weight: bold;
+  line-height: 1.25;
+  text-rendering: optimizeLegibility;
+  text-wrap: balance;
+  overflow-wrap: break-word;
+}
+h1 {
+  font-size: 2.5rem;
+}
+h2 {
+  margin-top: 1rem;
+  font-size: 2rem;
+}
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+}
+h4, h5, h6 {
+  margin-top: 1rem;
+  font-size: 1.25rem;
+}
+section {
+  margin-top: 1rem;
+}
+p, table, ol, ul, figure, aside, dl, hr {
+  margin-bottom: 1.5rem;
+}
+hr {
+  border: 0;
+  border-bottom: 1px solid #00000020;
+}
+sup, sub {
+  line-height: 0;
+}
+
+p {
+  max-width: 33rem;
+  text-wrap: pretty;
+  overflow-wrap: break-word;
+}
+
+figure, img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 2rem 0;
+}
+
+img {
+  margin-bottom: 0.5rem;
+  border-radius: 0.5rem;
+}
+img + em {
+  color: var(--gray);
+  display: block;
+  font-family: var(--title-font);
+  font-size: 1rem;
+  font-style: normal;
+}
+
+ul {
+  list-style-type: circle;
+}
+ul, ol, dd {
+  padding-left: 2rem;
+}
+li + ul,
+li + ol {
+	margin-bottom: 0;
+	padding-left: 1.25rem;
+}
+
+blockquote {
+  margin-top: 1rem;
+  padding-left: 1rem;
+  border-left: 0.25rem solid var(--links);
+}
+
+pre,
+code {
+  font-family: var(--code-font);
+}
+
+code {
+  border-radius: 3px;
+  color: var(--code);
+  padding: 0.1rem .25rem;
+}
+
+pre {
+  margin: 0 0 1rem;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+}
+
+pre code {
+  padding: 0;
+  font-size: 100%;
+  color: inherit;
+  background-color: transparent;
+}
+
+
+footer {
+  margin-top: 4rem;
+  color: var(--gray);
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.active {
+  font-weight: bold;
+}
+
+.site-title {
+  font-size: 2rem;
+  line-height: 1;
+  a {
+    color: #111;
+    border: none;
+  } a:hover {
+    color: var(--gray);
+    border: none;
+  }
+}
+.site-description {
+  color: var(--gray);
+  font-family: var(--title-font);
+  font-size: 1rem;
+  font-style: italic;
+  line-height: 1.2;
+}
+
+.pitch {
+  color: var(--gray);
+  font-family: var(--title-font);
+  font-size: 1.2rem;
+  font-weight: 300;
+  max-width: 100%;
+  margin: 1rem 0;
+  text-wrap: inherit;
+} @media (min-width: 38em) {
+  .pitch {
+    font-size: 1.5rem;
+    line-height: var(--line-height);
+  }
+}
+
+.highlight {
+  line-height: 1.4;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+
+  pre {
+    padding-left: 0.5rem;
+    margin-bottom: 0;
+    overflow-x: auto;
+  }
+
+ .lineno {
+   color: #999;
+   border-right: 1px solid #999;
+   display: inline-block; /* Ensures the null space also isn't selectable */
+   margin-top: 0.45rem;
+   padding-right: 0.3rem;
+   /* Make sure numbers aren't selectable */
+   -webkit-user-select: none;
+      -moz-user-select: none;
+           user-select: none;
+ }
+}
+
+/* Styles for notes and short form posts */
+.note {
+  margin: 2rem 0;
+  padding: 0.01rem 0.75rem;
+}
+.rednote {
+  background-color: #ffdddd;
+  border-top: 0.5rem solid #f44336;
+}
+.greennote {
+  background-color: #ddffdd;
+  border-top: 0.5rem solid #04AA6D;
+}
+.bluenote {
+  background-color: #e7f3fe;
+  border-top: 0.5rem solid #2196F3;
+}
+.yellownote {
+  background-color: #ffffcc;
+  border-top: 0.5rem solid #ffeb3b;
+}
+.blacknote {
+  color: whitesmoke;
+  background-color: #333;
+  border-top: 0.5rem solid #000;
+}
+.whitenote {
+  color: #000;
+  background-color: whitesmoke;
+  border: 1px solid #000;
+  border-top: 0.5rem solid #000;
+}
