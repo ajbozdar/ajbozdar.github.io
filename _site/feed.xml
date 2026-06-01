@@ -11,8 +11,8 @@
     <icon>https://ajbozdar.github.io//favicon.ico</icon>
     <rights>© 2003-2026 Abdujabbar Bozdar</rights>
     <atom:link href="https://ajbozdar.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 May 2026 13:41:49 +0500</pubDate>
-    <lastBuildDate>Sun, 31 May 2026 13:41:49 +0500</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 08:41:24 +0500</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 08:41:24 +0500</lastBuildDate>
     
       <item turbo="true">
         <title>FreeBSD Graceful Shutdown Due to Power Loss</title>
@@ -531,6 +531,23 @@
         
         
         <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>The Amazing Internet</title>
+        <description>Today I learned about the world wide web for the first time. It is all about connecting with others.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Sun, 21 Sep 2003 19:16:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//amazing-internet/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//amazing-internet/</guid>
+        
+        <category>anecdote</category>
+        
+        
+        <category>Diary</category>
         
       </item>
     
