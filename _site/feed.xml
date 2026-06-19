@@ -3,16 +3,16 @@
   <channel>
     <title>A. J. B.</title>
     <description>Abdul-Jabbar Bozdar&apos;s Personal Website</description>
-    <link>https://ajbozdar.github.io//</link>
+    <link>http://localhost:4000/</link>
     <author>
     <name>Abdul-Jabbar Bozdar</name>
-    <uri>https://ajbozdar.github.io//about/</uri>
+    <uri>http://localhost:4000/about/</uri>
     </author>
-    <icon>https://ajbozdar.github.io//favicon.ico</icon>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>© 2003-2026 Abdujabbar Bozdar</rights>
-    <atom:link href="https://ajbozdar.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Jun 2026 23:55:51 +0500</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2026 23:55:51 +0500</lastBuildDate>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 20 Jun 2026 00:40:17 +0500</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:40:17 +0500</lastBuildDate>
     
       <item turbo="true">
         <title>Configure Private DNS on Debian</title>
@@ -21,8 +21,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Fri, 19 Jun 2026 23:30:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//configure-private-dns-debian/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//configure-private-dns-debian/</guid>
+        <link>http://localhost:4000/configure-private-dns-debian/</link>
+        <guid isPermaLink="true">http://localhost:4000/configure-private-dns-debian/</guid>
         
         <category>technology</category>
         
@@ -38,8 +38,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Tue, 01 Jul 2025 23:01:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//freebsd-shutdown/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//freebsd-shutdown/</guid>
+        <link>http://localhost:4000/freebsd-shutdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/freebsd-shutdown/</guid>
         
         <category>FreeBSD</category>
         
@@ -59,8 +59,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Thu, 26 Jun 2025 11:12:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//using-freebsd/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//using-freebsd/</guid>
+        <link>http://localhost:4000/using-freebsd/</link>
+        <guid isPermaLink="true">http://localhost:4000/using-freebsd/</guid>
         
         <category>essay</category>
         
@@ -82,8 +82,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Wed, 02 Oct 2024 21:45:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//fedora-plasma-desktop-experience/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//fedora-plasma-desktop-experience/</guid>
+        <link>http://localhost:4000/fedora-plasma-desktop-experience/</link>
+        <guid isPermaLink="true">http://localhost:4000/fedora-plasma-desktop-experience/</guid>
         
         <category>KDE</category>
         
@@ -101,8 +101,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Tue, 01 Oct 2024 19:46:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//fedora-test-days/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//fedora-test-days/</guid>
+        <link>http://localhost:4000/fedora-test-days/</link>
+        <guid isPermaLink="true">http://localhost:4000/fedora-test-days/</guid>
         
         <category>fedora</category>
         
@@ -118,8 +118,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Mon, 30 Sep 2024 18:56:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//desec-dns-hosting-service/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//desec-dns-hosting-service/</guid>
+        <link>http://localhost:4000/desec-dns-hosting-service/</link>
+        <guid isPermaLink="true">http://localhost:4000/desec-dns-hosting-service/</guid>
         
         <category>systems</category>
         
@@ -137,8 +137,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Sun, 29 Sep 2024 16:05:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//no-input-output-audio-device-detected/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//no-input-output-audio-device-detected/</guid>
+        <link>http://localhost:4000/no-input-output-audio-device-detected/</link>
+        <guid isPermaLink="true">http://localhost:4000/no-input-output-audio-device-detected/</guid>
         
         <category>fedora</category>
         
@@ -154,8 +154,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Fri, 06 Sep 2024 09:30:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//how-to-speed-up-jekyll-build-time/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//how-to-speed-up-jekyll-build-time/</guid>
+        <link>http://localhost:4000/how-to-speed-up-jekyll-build-time/</link>
+        <guid isPermaLink="true">http://localhost:4000/how-to-speed-up-jekyll-build-time/</guid>
         
         <category>programming</category>
         
@@ -173,8 +173,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Wed, 04 Sep 2024 22:03:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//fountain-pen/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//fountain-pen/</guid>
+        <link>http://localhost:4000/fountain-pen/</link>
+        <guid isPermaLink="true">http://localhost:4000/fountain-pen/</guid>
         
         <category>hobby</category>
         
@@ -190,8 +190,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Mon, 02 Sep 2024 11:39:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//taking-english-language-skills-next-level/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//taking-english-language-skills-next-level/</guid>
+        <link>http://localhost:4000/taking-english-language-skills-next-level/</link>
+        <guid isPermaLink="true">http://localhost:4000/taking-english-language-skills-next-level/</guid>
         
         <category>hobby</category>
         
@@ -207,8 +207,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Sat, 31 Aug 2024 17:04:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//screenshot-saturday/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//screenshot-saturday/</guid>
+        <link>http://localhost:4000/screenshot-saturday/</link>
+        <guid isPermaLink="true">http://localhost:4000/screenshot-saturday/</guid>
         
         <category>social</category>
         
@@ -226,8 +226,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Thu, 29 Aug 2024 10:16:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//gnome-light-mode/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//gnome-light-mode/</guid>
+        <link>http://localhost:4000/gnome-light-mode/</link>
+        <guid isPermaLink="true">http://localhost:4000/gnome-light-mode/</guid>
         
         <category>gnome</category>
         
@@ -245,8 +245,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Thu, 22 Aug 2024 18:08:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//recall-things-creative-way/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//recall-things-creative-way/</guid>
+        <link>http://localhost:4000/recall-things-creative-way/</link>
+        <guid isPermaLink="true">http://localhost:4000/recall-things-creative-way/</guid>
         
         <category>tips</category>
         
@@ -264,8 +264,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Wed, 21 Aug 2024 08:15:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//default-chrome/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//default-chrome/</guid>
+        <link>http://localhost:4000/default-chrome/</link>
+        <guid isPermaLink="true">http://localhost:4000/default-chrome/</guid>
         
         <category>internet</category>
         
@@ -281,8 +281,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Sun, 18 Jun 2023 18:18:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//i-died-as-a-mineral/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//i-died-as-a-mineral/</guid>
+        <link>http://localhost:4000/i-died-as-a-mineral/</link>
+        <guid isPermaLink="true">http://localhost:4000/i-died-as-a-mineral/</guid>
         
         <category>poetry</category>
         
@@ -300,8 +300,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Tue, 31 Aug 2021 08:18:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//beginning-web-development/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//beginning-web-development/</guid>
+        <link>http://localhost:4000/beginning-web-development/</link>
+        <guid isPermaLink="true">http://localhost:4000/beginning-web-development/</guid>
         
         <category>programming</category>
         
@@ -317,8 +317,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Sat, 28 Apr 2018 13:15:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//gnome-on-ubuntu/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//gnome-on-ubuntu/</guid>
+        <link>http://localhost:4000/gnome-on-ubuntu/</link>
+        <guid isPermaLink="true">http://localhost:4000/gnome-on-ubuntu/</guid>
         
         <category>gnome</category>
         
@@ -336,8 +336,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Wed, 29 Nov 2017 13:15:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//trying-fedora/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//trying-fedora/</guid>
+        <link>http://localhost:4000/trying-fedora/</link>
+        <guid isPermaLink="true">http://localhost:4000/trying-fedora/</guid>
         
         <category>fedora</category>
         
@@ -355,8 +355,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Sun, 16 Apr 2017 13:28:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//we-need-music/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//we-need-music/</guid>
+        <link>http://localhost:4000/we-need-music/</link>
+        <guid isPermaLink="true">http://localhost:4000/we-need-music/</guid>
         
         <category>essay</category>
         
@@ -374,8 +374,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Thu, 17 Nov 2016 20:15:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//kubuntu/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//kubuntu/</guid>
+        <link>http://localhost:4000/kubuntu/</link>
+        <guid isPermaLink="true">http://localhost:4000/kubuntu/</guid>
         
         <category>KDE</category>
         
@@ -393,8 +393,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Wed, 18 May 2016 13:15:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//better-ubuntu/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//better-ubuntu/</guid>
+        <link>http://localhost:4000/better-ubuntu/</link>
+        <guid isPermaLink="true">http://localhost:4000/better-ubuntu/</guid>
         
         <category>ubuntu</category>
         
@@ -412,8 +412,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Sun, 15 Dec 2013 23:23:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//in-the-bleak-mid-winter-rossetti/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//in-the-bleak-mid-winter-rossetti/</guid>
+        <link>http://localhost:4000/in-the-bleak-mid-winter-rossetti/</link>
+        <guid isPermaLink="true">http://localhost:4000/in-the-bleak-mid-winter-rossetti/</guid>
         
         <category>poetry</category>
         
@@ -429,8 +429,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Mon, 16 Sep 2013 08:18:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//continual-autumn/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//continual-autumn/</guid>
+        <link>http://localhost:4000/continual-autumn/</link>
+        <guid isPermaLink="true">http://localhost:4000/continual-autumn/</guid>
         
         <category>poetry</category>
         
@@ -446,8 +446,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Sat, 05 May 2012 13:15:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//ubuntu-unity-desktop/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//ubuntu-unity-desktop/</guid>
+        <link>http://localhost:4000/ubuntu-unity-desktop/</link>
+        <guid isPermaLink="true">http://localhost:4000/ubuntu-unity-desktop/</guid>
         
         <category>ubuntu</category>
         
@@ -465,8 +465,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Fri, 24 Feb 2012 18:08:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//invisible-foot-fungus/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//invisible-foot-fungus/</guid>
+        <link>http://localhost:4000/invisible-foot-fungus/</link>
+        <guid isPermaLink="true">http://localhost:4000/invisible-foot-fungus/</guid>
         
         <category>tips</category>
         
@@ -482,8 +482,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Sun, 25 Sep 2011 13:15:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//ubuntu-pre-installed/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//ubuntu-pre-installed/</guid>
+        <link>http://localhost:4000/ubuntu-pre-installed/</link>
+        <guid isPermaLink="true">http://localhost:4000/ubuntu-pre-installed/</guid>
         
         <category>ubuntu</category>
         
@@ -501,8 +501,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Thu, 12 Apr 2007 13:15:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//ubuntu/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//ubuntu/</guid>
+        <link>http://localhost:4000/ubuntu/</link>
+        <guid isPermaLink="true">http://localhost:4000/ubuntu/</guid>
         
         <category>unix</category>
         
@@ -522,8 +522,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Sun, 12 Mar 2006 18:38:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//all-about-algorithms-and-their-designs/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//all-about-algorithms-and-their-designs/</guid>
+        <link>http://localhost:4000/all-about-algorithms-and-their-designs/</link>
+        <guid isPermaLink="true">http://localhost:4000/all-about-algorithms-and-their-designs/</guid>
         
         <category>programming</category>
         
@@ -539,8 +539,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Sat, 03 Sep 2005 19:45:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//my-first-c-program/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//my-first-c-program/</guid>
+        <link>http://localhost:4000/my-first-c-program/</link>
+        <guid isPermaLink="true">http://localhost:4000/my-first-c-program/</guid>
         
         <category>programming</category>
         
@@ -558,8 +558,8 @@
         <name>Abdul-Jabbar Bozdar</name>
         </author>
         <pubDate>Sun, 21 Sep 2003 19:16:00 +0500</pubDate>
-        <link>https://ajbozdar.github.io//amazing-internet/</link>
-        <guid isPermaLink="true">https://ajbozdar.github.io//amazing-internet/</guid>
+        <link>http://localhost:4000/amazing-internet/</link>
+        <guid isPermaLink="true">http://localhost:4000/amazing-internet/</guid>
         
         <category>anecdote</category>
         

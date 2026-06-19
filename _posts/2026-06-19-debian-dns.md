@@ -12,7 +12,6 @@ tags: [technology, programming]
 # math: true
 # sticky: true
 # hidden: true
-published: true
 ---
 
 Today, I installed Linux Mint Debian Edition on one of computer at home. After installation, I wanted to configure private DNS on it. However, it did not work as it was suppose to.
