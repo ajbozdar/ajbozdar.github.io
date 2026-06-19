@@ -11,8 +11,25 @@
     <icon>https://ajbozdar.github.io//favicon.ico</icon>
     <rights>© 2003-2026 Abdujabbar Bozdar</rights>
     <atom:link href="https://ajbozdar.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Jun 2026 08:41:24 +0500</pubDate>
-    <lastBuildDate>Mon, 01 Jun 2026 08:41:24 +0500</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 23:55:51 +0500</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 23:55:51 +0500</lastBuildDate>
+    
+      <item turbo="true">
+        <title>Configure Private DNS on Debian</title>
+        <description>Here is a straight forward method to configure private dns on Debian.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Fri, 19 Jun 2026 23:30:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//configure-private-dns-debian/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//configure-private-dns-debian/</guid>
+        
+        <category>technology</category>
+        
+        <category>programming</category>
+        
+        
+      </item>
     
       <item turbo="true">
         <title>FreeBSD Graceful Shutdown Due to Power Loss</title>

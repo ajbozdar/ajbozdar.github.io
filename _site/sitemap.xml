@@ -4,6 +4,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ajbozdar.github.io//configure-private-dns-debian/</loc>
+    <image:image>
+    
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-home.webp</image:loc>
+    
+    </image:image>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
     <loc>https://ajbozdar.github.io//freebsd-shutdown/</loc>
     <image:image>
     
