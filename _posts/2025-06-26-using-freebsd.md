@@ -7,8 +7,6 @@ excerpt: I have begun using FreeBSD on my personal computer at home. FreeBSD is 
 image: '/images/freebsd-unix-operating-system.webp' 
 categories: [technology]
 tags: [essay, programming, hobby, study]
-sticky: true
-hidden: true
 ---
 <span class="dropcap">M</span>y computer is using FreeBSD 
 because I am upgrading my Unix skills. FreeBSD is the only
