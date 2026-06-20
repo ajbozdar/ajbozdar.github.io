@@ -55,7 +55,7 @@
     <loc>http://localhost:4000/fedora-test-days/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/fedora-tuned-qa-test-day.webp</image:loc>
+    <image:loc>http://localhost:4000/assets/images/fedora-tuned-qa-test-day.webp</image:loc>
     
     </image:image>
     
