@@ -6,14 +6,10 @@ slug: configure-private-dns-debian
 date: 2026-06-19 23:30
 #lastmod: YYYY-MM-DD HH:MM
 excerpt: Here is a straight forward method to configure private dns on Debian.
-#image: 'add an image from unsplash, operverse, pixabay, pexels'
-tags: [technology, programming]
-# code: true
-# math: true
-# sticky: true
-# hidden: true
+categories: [technology]
+tags: [debian, dns]
+code: true
 ---
-
 Today, I installed Linux Mint Debian Edition on one of computer at home. After installation, I wanted to configure private DNS on it. However, it did not work as it was suppose to.
 
 At first, I added my configs in `/etc/resolv.conf`. This was suppose to work after restarting, but it did not. This was because `systemctl` overrode `resolv.conf` as soon as I restarted it.

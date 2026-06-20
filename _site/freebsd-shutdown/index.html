@@ -32,11 +32,11 @@ href="http://localhost:4000/assets/apple-touch-icon.png">
 <meta property="og:description" content="BIOS has little power to override operating system settings. Therefore, BIOS cannot trigger the shutdown if ACPI is set to NONE.">
 <meta property="og:url" content="http://localhost:4000/freebsd-shutdown/">
 <meta property="og:site_name" content="A. J. B.">
-<meta property="og:image" content="http://localhost:4000/images/freebsd-power-off.webp">
+<meta property="og:image" content="http://localhost:4000/images/abdul-jabbar-home.webp">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="FreeBSD Graceful Shutdown Due to Power Loss | A. J. B.">
 <meta name="twitter:description" content="BIOS has little power to override operating system settings. Therefore, BIOS cannot trigger the shutdown if ACPI is set to NONE.">
-<meta name="twitter:image:src" content="http://localhost:4000/images/freebsd-power-off.webp">
+<meta name="twitter:image:src" content="http://localhost:4000/images/abdul-jabbar-home.webp">
 <meta name="twitter:creator" content="ajbozdar">
 <meta name="twitter:site" content="ajbozdar">
 <!-- AI is not welcome. -->
@@ -113,8 +113,7 @@ href="http://localhost:4000/assets/apple-touch-icon.png">
   <h1 class="post-title p-name" itemprop="name headline">FreeBSD Graceful Shutdown Due to Power Loss</h1>
   <div class="post-line e-content" itemprop="articleBody"></div>
   <p class="pitch">BIOS has little power to override operating system settings. Therefore, BIOS cannot trigger the shutdown if ACPI is set to NONE.</p>
-  <div class="block-has-space"><img src="http://localhost:4000/images/freebsd-power-off.webp"
-      alt="FreeBSD Graceful Shutdown Due to Power Loss" loading="lazy" width="800px" height="auto"></div>
+  <div class="block-has-space"></div>
 
   <p>Since June of this year, I have been <a href="/using-freebsd/">using FreeBSD</a>. As soon as I began using the
 OS on my primary machine, it presented me with my first problem to solve right away. The issue was not something I expected as a Fedora user.</p>
@@ -147,8 +146,10 @@ This was the reason I got a minute.</p>
 <p>To make the change permanent across logins, I entered the following line in my
 <code class="language-plaintext highlighter-rouge">/etc/sysctl.conf</code>:</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">echo</span> <span class="s2">"hw.acpi.power_button_state=NONE"</span> <span class="o">&gt;&gt;</span> /etc/sysctl.conf
-</code></pre></div></div>
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+</pre></td><td class="code"><pre><span class="nb">echo</span> <span class="s2">"hw.acpi.power_button_state=NONE"</span> <span class="o">&gt;&gt;</span> /etc/sysctl.conf
+</pre></td></tr></tbody></table></code></pre></figure>
+
 <p>This disabled the power button, and now it does nothing when pressed. This was something I
 needed anyway.</p>
 
@@ -164,7 +165,7 @@ needed anyway.</p>
 </main>
 <footer>
   <p>
-    &copy; 2003 - <time datetime="2026-06-20 00:40:17 +0500">2026</time> 
+    &copy; 2003 - <time datetime="2026-06-20 09:14:04 +0500">2026</time> 
     BY-NC-SA CC 4.0 <a href="/about/">Abdul-Jabbar Bozdar</a>.
   </p>
   <p>

@@ -5,7 +5,7 @@ slug: freebsd-shutdown
 date: 2025-07-01 23:01
 lastmod: 2025-07-03 16:44
 excerpt: BIOS has little power to override operating system settings. Therefore, BIOS cannot trigger the shutdown if ACPI is set to NONE.
-image: /images/freebsd-power-off.webp
+#image: /assets/images/freebsd-power-off.webp
 categories: [technology]
 tags: [FreeBSD, unix, computers]
 # sticky: true
@@ -42,9 +42,10 @@ This was the reason I got a minute.
 To make the change permanent across logins, I entered the following line in my
 `/etc/sysctl.conf`:
 
-```bash
-$ echo "hw.acpi.power_button_state=NONE" >> /etc/sysctl.conf
-```
+{% highlight shell linenos %}
+echo "hw.acpi.power_button_state=NONE" >> /etc/sysctl.conf
+{% endhighlight %}
+
 This disabled the power button, and now it does nothing when pressed. This was something I
 needed anyway.
 
