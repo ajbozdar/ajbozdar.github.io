@@ -6,14 +6,15 @@
 
 I am a computer programmer writing reliable, secure, and performant code.
 
+**v6.2.** Removed most of styles.
+
 **v6.1.** Redesigned and deployed to Vercel using Github.
 
 **v6.0.** Redesigned the website and deployed to Vercel using Gitlab.
 
 **v5.2.** Moved to Github.
 
-**v5.1.** New blog status released. I moved website to a cheaper domain 
-[aj.bozdar.im](https://aj.bozdar.im).
+**v5.1.** New blog status released. I moved website to a cheaper domain.
 
 **v5.0.** Website refreshed.
 
@@ -32,7 +33,7 @@ I am a computer programmer writing reliable, secure, and performant code.
 **v0.1.** I used Geocities to create a website. April, 2003.
 
 
-**&copy;** 2003 - 2025 NC-SA CC 4.0 International.
+**&copy;** 2003 - 2026 NC-SA CC 4.0 International.
 
-<!-- <strong>Mastodon:</strong> <a rel="me" href="https://fosstodon.org/@ajb">@ajb</a> -->
+**Mastodon:** [fosstodon.org/@ajb](https://fosstodon.org/@ajb)
 **Twitter:** [x.com/ajbozdar](https://x.com/ajbozdar)
