@@ -4,10 +4,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:4000/configure-private-dns-debian/</loc>
+    <loc>https://ajbozdar.github.io//configure-private-dns-debian/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-home.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-home.webp</image:loc>
     
     </image:image>
     
@@ -16,10 +16,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/freebsd-shutdown/</loc>
+    <loc>https://ajbozdar.github.io//freebsd-shutdown/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-home.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-home.webp</image:loc>
     
     </image:image>
     <lastmod>2025-07-03T16:44:00+05:00</lastmod>
@@ -28,10 +28,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/using-freebsd/</loc>
+    <loc>https://ajbozdar.github.io//using-freebsd/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/freebsd-unix-operating-system.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/freebsd-unix-operating-system.webp</image:loc>
     
     </image:image>
     
@@ -40,10 +40,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/fedora-plasma-desktop-experience/</loc>
+    <loc>https://ajbozdar.github.io//fedora-plasma-desktop-experience/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/fedora-running-plasma-desktop.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/fedora-running-plasma-desktop.webp</image:loc>
     
     </image:image>
     
@@ -52,10 +52,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/fedora-test-days/</loc>
+    <loc>https://ajbozdar.github.io//fedora-test-days/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/assets/images/fedora-tuned-qa-test-day.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//assets/images/fedora-tuned-qa-test-day.webp</image:loc>
     
     </image:image>
     
@@ -64,10 +64,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/desec-dns-hosting-service/</loc>
+    <loc>https://ajbozdar.github.io//no-input-output-audio-device-detected/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/dns-endpoint-network.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/failed-to-connect-to-bus-no-medium-found.webp</image:loc>
     
     </image:image>
     
@@ -76,10 +76,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/no-input-output-audio-device-detected/</loc>
+    <loc>https://ajbozdar.github.io//how-to-speed-up-jekyll-build-time/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/failed-to-connect-to-bus-no-medium-found.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-website-development-speed.webp</image:loc>
     
     </image:image>
     
@@ -88,10 +88,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/how-to-speed-up-jekyll-build-time/</loc>
+    <loc>https://ajbozdar.github.io//fountain-pen/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-website-development-speed.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-bozdar-dollar-fountain-pen.webp</image:loc>
     
     </image:image>
     
@@ -100,10 +100,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/fountain-pen/</loc>
+    <loc>https://ajbozdar.github.io//taking-english-language-skills-next-level/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-bozdar-dollar-fountain-pen.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-taking-english-language-skills-new-level.webp</image:loc>
     
     </image:image>
     
@@ -112,10 +112,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/taking-english-language-skills-next-level/</loc>
+    <loc>https://ajbozdar.github.io//screenshot-saturday/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-taking-english-language-skills-new-level.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-computer-gnome-light-mode.webp</image:loc>
     
     </image:image>
     
@@ -124,10 +124,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/screenshot-saturday/</loc>
+    <loc>https://ajbozdar.github.io//gnome-light-mode/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-computer-gnome-light-mode.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/gnome-desktop-environment-appearance-light-mode.webp</image:loc>
     
     </image:image>
     
@@ -136,10 +136,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/gnome-light-mode/</loc>
+    <loc>https://ajbozdar.github.io//recall-things-creative-way/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/gnome-desktop-environment-appearance-light-mode.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/programming-memory-troubles.webp</image:loc>
     
     </image:image>
     
@@ -148,22 +148,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/recall-things-creative-way/</loc>
+    <loc>https://ajbozdar.github.io//default-chrome/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/programming-memory-troubles.webp</image:loc>
-    
-    </image:image>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/default-chrome/</loc>
-    <image:image>
-    
-    <image:loc>http://localhost:4000/images/firefox-chrome-internet-browser-war.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/firefox-chrome-internet-browser-war.webp</image:loc>
     
     </image:image>
     <lastmod>2024-09-18T22:38:00+05:00</lastmod>
@@ -172,10 +160,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/i-died-as-a-mineral/</loc>
+    <loc>https://ajbozdar.github.io//i-died-as-a-mineral/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-home.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-home.webp</image:loc>
     
     </image:image>
     <lastmod>2025-06-18T18:18:00+05:00</lastmod>
@@ -184,10 +172,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/beginning-web-development/</loc>
+    <loc>https://ajbozdar.github.io//beginning-web-development/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/experiences-in-the-beginning.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/experiences-in-the-beginning.webp</image:loc>
     
     </image:image>
     <lastmod>2023-07-16T20:09:00+05:00</lastmod>
@@ -196,10 +184,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/gnome-on-ubuntu/</loc>
+    <loc>https://ajbozdar.github.io//gnome-on-ubuntu/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/ubuntu-18-gnome-desktop.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/ubuntu-18-gnome-desktop.webp</image:loc>
     
     </image:image>
     <lastmod>2024-09-21T18:58:00+05:00</lastmod>
@@ -208,10 +196,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/trying-fedora/</loc>
+    <loc>https://ajbozdar.github.io//trying-fedora/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/fedora-26-desktop.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/fedora-26-desktop.webp</image:loc>
     
     </image:image>
     <lastmod>2024-09-21T18:58:00+05:00</lastmod>
@@ -220,10 +208,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/we-need-music/</loc>
+    <loc>https://ajbozdar.github.io//we-need-music/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/we-need-music.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/we-need-music.webp</image:loc>
     
     </image:image>
     <lastmod>2023-05-17T03:18:00+05:00</lastmod>
@@ -232,10 +220,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/kubuntu/</loc>
+    <loc>https://ajbozdar.github.io//kubuntu/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/ubuntu-16-kde-desktop.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/ubuntu-16-kde-desktop.webp</image:loc>
     
     </image:image>
     <lastmod>2024-09-21T18:58:00+05:00</lastmod>
@@ -244,10 +232,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/better-ubuntu/</loc>
+    <loc>https://ajbozdar.github.io//better-ubuntu/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/ubuntu-16-unity-desktop.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/ubuntu-16-unity-desktop.webp</image:loc>
     
     </image:image>
     <lastmod>2024-09-21T18:58:00+05:00</lastmod>
@@ -256,10 +244,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/in-the-bleak-mid-winter-rossetti/</loc>
+    <loc>https://ajbozdar.github.io//in-the-bleak-mid-winter-rossetti/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/bleak-mid-winter-rossetti-poetry.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/bleak-mid-winter-rossetti-poetry.webp</image:loc>
     
     </image:image>
     <lastmod>2017-12-16T18:38:00+05:00</lastmod>
@@ -268,10 +256,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/continual-autumn/</loc>
+    <loc>https://ajbozdar.github.io//continual-autumn/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/autumn-september.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/autumn-september.webp</image:loc>
     
     </image:image>
     <lastmod>2015-09-16T08:18:00+05:00</lastmod>
@@ -280,10 +268,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ubuntu-unity-desktop/</loc>
+    <loc>https://ajbozdar.github.io//ubuntu-unity-desktop/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/ubuntu-12-unity-desktop.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/ubuntu-12-unity-desktop.webp</image:loc>
     
     </image:image>
     <lastmod>2024-09-21T18:58:00+05:00</lastmod>
@@ -292,10 +280,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/invisible-foot-fungus/</loc>
+    <loc>https://ajbozdar.github.io//invisible-foot-fungus/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-home.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-home.webp</image:loc>
     
     </image:image>
     <lastmod>2015-07-15T13:11:00+05:00</lastmod>
@@ -304,10 +292,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ubuntu-pre-installed/</loc>
+    <loc>https://ajbozdar.github.io//ubuntu-pre-installed/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/ubuntu-10-desktop-on-dell.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/ubuntu-10-desktop-on-dell.webp</image:loc>
     
     </image:image>
     <lastmod>2024-09-21T18:58:00+05:00</lastmod>
@@ -316,10 +304,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/internet/</loc>
+    <loc>https://ajbozdar.github.io//internet/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-home.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-home.webp</image:loc>
     
     </image:image>
     
@@ -328,10 +316,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ubuntu/</loc>
+    <loc>https://ajbozdar.github.io//ubuntu/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/ubuntu-06-lts.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/ubuntu-06-lts.webp</image:loc>
     
     </image:image>
     <lastmod>2024-09-21T18:58:00+05:00</lastmod>
@@ -340,10 +328,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/all-about-algorithms-and-their-designs/</loc>
+    <loc>https://ajbozdar.github.io//all-about-algorithms-and-their-designs/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/all-about-algorithm-design.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/all-about-algorithm-design.webp</image:loc>
     
     </image:image>
     <lastmod>2024-08-06T16:33:00+05:00</lastmod>
@@ -352,10 +340,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/my-first-c-program/</loc>
+    <loc>https://ajbozdar.github.io//my-first-c-program/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/my-first-c-program.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/my-first-c-program.webp</image:loc>
     
     </image:image>
     <lastmod>2010-08-05T18:38:00+05:00</lastmod>
@@ -364,10 +352,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/amazing-internet/</loc>
+    <loc>https://ajbozdar.github.io//amazing-internet/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/amazing-internet-experience.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/amazing-internet-experience.webp</image:loc>
     
     </image:image>
     <lastmod>2025-06-15T19:18:00+05:00</lastmod>
@@ -378,10 +366,10 @@
   
   
   <url>
-    <loc>http://localhost:4000/404.html</loc>
+    <loc>https://ajbozdar.github.io//404.html</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-home.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-home.webp</image:loc>
     
     </image:image>
     
@@ -392,10 +380,10 @@
   
   
   <url>
-    <loc>http://localhost:4000/about/</loc>
+    <loc>https://ajbozdar.github.io//about/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-home.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-home.webp</image:loc>
     
     </image:image>
     <lastmod>2025-06-20T11:11:00+05:00</lastmod>
@@ -408,10 +396,10 @@
   
   
   <url>
-    <loc>http://localhost:4000/</loc>
+    <loc>https://ajbozdar.github.io//</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-home.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-home.webp</image:loc>
     
     </image:image>
     
@@ -422,10 +410,10 @@
   
   
   <url>
-    <loc>http://localhost:4000/photos/</loc>
+    <loc>https://ajbozdar.github.io//photos/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-home.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-home.webp</image:loc>
     
     </image:image>
     
@@ -436,10 +424,10 @@
   
   
   <url>
-    <loc>http://localhost:4000/more-pages/</loc>
+    <loc>https://ajbozdar.github.io//more-pages/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-home.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-home.webp</image:loc>
     
     </image:image>
     <lastmod>2026-05-31T11:11:00+05:00</lastmod>
@@ -450,10 +438,10 @@
   
   
   <url>
-    <loc>http://localhost:4000/posts/</loc>
+    <loc>https://ajbozdar.github.io//posts/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/assets/images/tech-abdul-jabbar-uses.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//assets/images/tech-abdul-jabbar-uses.webp</image:loc>
     
     </image:image>
     <lastmod>2026-05-31T08:55:00+05:00</lastmod>
@@ -464,10 +452,10 @@
   
   
   <url>
-    <loc>http://localhost:4000/privacy/</loc>
+    <loc>https://ajbozdar.github.io//privacy/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/privacy.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/privacy.webp</image:loc>
     
     </image:image>
     <lastmod>2024-09-02T00:00:00+05:00</lastmod>
@@ -480,10 +468,10 @@
   
   
   <url>
-    <loc>http://localhost:4000/status/</loc>
+    <loc>https://ajbozdar.github.io//status/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-home.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-home.webp</image:loc>
     
     </image:image>
     
@@ -494,10 +482,10 @@
   
   
   <url>
-    <loc>http://localhost:4000/tags/</loc>
+    <loc>https://ajbozdar.github.io//tags/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/tech-abdul-jabbar-uses.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/tech-abdul-jabbar-uses.webp</image:loc>
     
     </image:image>
     <lastmod>2024-09-05T00:08:00+05:00</lastmod>
@@ -508,10 +496,10 @@
   
   
   <url>
-    <loc>http://localhost:4000/uses/</loc>
+    <loc>https://ajbozdar.github.io//uses/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/assets/images/tech-abdul-jabbar-uses.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//assets/images/tech-abdul-jabbar-uses.webp</image:loc>
     
     </image:image>
     <lastmod>2024-10-10T00:03:00+05:00</lastmod>
@@ -522,10 +510,10 @@
   
   
   <url>
-    <loc>http://localhost:4000/work/</loc>
+    <loc>https://ajbozdar.github.io//work/</loc>
     <image:image>
     
-    <image:loc>http://localhost:4000/images/abdul-jabbar-now-status.webp</image:loc>
+    <image:loc>https://ajbozdar.github.io//images/abdul-jabbar-now-status.webp</image:loc>
     
     </image:image>
     <lastmod>2025-06-15T19:18:00+05:00</lastmod>
