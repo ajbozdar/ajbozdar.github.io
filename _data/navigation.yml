@@ -2,9 +2,9 @@
   link: /
 - name: About
   link: /about/
-- name: Work
-  link: /work/
+#- name: Work
+#  link: /work/
 - name: Posts
   link: /posts/
-- name: Pages
-  link: /more-pages/
+#- name: Pages
+#  link: /more-pages/
