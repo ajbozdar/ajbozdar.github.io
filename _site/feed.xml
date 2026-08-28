@@ -11,8 +11,8 @@
     <icon>https://ajbozdar.github.io//favicon.ico</icon>
     <rights>© 2003-2026 Abdujabbar Bozdar</rights>
     <atom:link href="https://ajbozdar.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Aug 2026 12:49:40 +0500</pubDate>
-    <lastBuildDate>Fri, 07 Aug 2026 12:49:40 +0500</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 20:38:12 +0500</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:38:12 +0500</lastBuildDate>
     
       <item turbo="true">
         <title>Configure Private DNS on Debian</title>
