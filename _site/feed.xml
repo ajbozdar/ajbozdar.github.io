@@ -11,8 +11,8 @@
     <icon>https://ajbozdar.github.io//favicon.ico</icon>
     <rights>© 2003-2026 Abdujabbar Bozdar</rights>
     <atom:link href="https://ajbozdar.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Aug 2026 22:57:01 +0500</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2026 22:57:01 +0500</lastBuildDate>
+    <pubDate>Sun, 06 Sep 2026 18:55:43 +0500</pubDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:55:43 +0500</lastBuildDate>
     
       <item turbo="true">
         <title>Configure Private DNS on Debian</title>
@@ -122,6 +122,23 @@
         <guid isPermaLink="true">https://ajbozdar.github.io//no-input-output-audio-device-detected/</guid>
         
         <category>fedora</category>
+        
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item turbo="true">
+        <title>How to Install Scheme Language on Fedora</title>
+        <description>In this post, I am sharing how I installed the Scheme programming language on Fedora.</description>
+        <author>
+        <name>Abdul-Jabbar Bozdar</name>
+        </author>
+        <pubDate>Fri, 06 Sep 2024 17:14:00 +0500</pubDate>
+        <link>https://ajbozdar.github.io//install-scheme-language-fedora/</link>
+        <guid isPermaLink="true">https://ajbozdar.github.io//install-scheme-language-fedora/</guid>
+        
+        <category>programming</category>
         
         
         <category>Technology</category>

@@ -7,12 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="theme-color" content="cornflowerblue" />
-<title>Configure Private DNS on Debian | A. J. B.</title>
-<meta name="description" content="Here is a straight forward method to configure private dns on Debian.">
+<title>How to Install Scheme Language on Fedora | A. J. B.</title>
+<meta name="description" content="In this post, I am sharing how I installed the Scheme programming language on Fedora.">
 
 <!-- CSS -->
 <link rel="stylesheet" href="https://ajbozdar.github.io//assets/main.css">
-<link rel="stylesheet" href="https://ajbozdar.github.io//assets/syntax.css">
+
 <!-- Favicon -->
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://ajbozdar.github.io//assets/favicon-16x16.png">
@@ -23,19 +23,19 @@ href="https://ajbozdar.github.io//assets/apple-touch-icon.png">
 
 <link rel="icon" type="image/png" sizes="192x192" href="https://ajbozdar.github.io//assets/android-chrome-192x192.png">
 <link rel="manifest" href="https://ajbozdar.github.io//site.webmanifest">
-<link rel="canonical" href="https://ajbozdar.github.io//configure-private-dns-debian/">
+<link rel="canonical" href="https://ajbozdar.github.io//install-scheme-language-fedora/">
 <link rel="alternate" type="application/rss+xml" title="A. J. B." href="https://ajbozdar.github.io//feed.xml">
 <link rel="sitemap" type="application/xml" title="Sitemap" href="https://ajbozdar.github.io//sitemap.xml">
 <!-- Social Cards -->
 <meta property="og:type" content="article">
-<meta property="og:title" content="Configure Private DNS on Debian | A. J. B.">
-<meta property="og:description" content="Here is a straight forward method to configure private dns on Debian.">
-<meta property="og:url" content="https://ajbozdar.github.io//configure-private-dns-debian/">
+<meta property="og:title" content="How to Install Scheme Language on Fedora | A. J. B.">
+<meta property="og:description" content="In this post, I am sharing how I installed the Scheme programming language on Fedora.">
+<meta property="og:url" content="https://ajbozdar.github.io//install-scheme-language-fedora/">
 <meta property="og:site_name" content="A. J. B.">
 <meta property="og:image" content="https://ajbozdar.github.io//images/abdul-jabbar-home.webp">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Configure Private DNS on Debian | A. J. B.">
-<meta name="twitter:description" content="Here is a straight forward method to configure private dns on Debian.">
+<meta name="twitter:title" content="How to Install Scheme Language on Fedora | A. J. B.">
+<meta name="twitter:description" content="In this post, I am sharing how I installed the Scheme programming language on Fedora.">
 <meta name="twitter:image:src" content="https://ajbozdar.github.io//images/abdul-jabbar-home.webp">
 <meta name="twitter:creator" content="ajbozdar">
 <meta name="twitter:site" content="ajbozdar">
@@ -93,44 +93,68 @@ href="https://ajbozdar.github.io//assets/apple-touch-icon.png">
     <a rel="author" class="p-author h-card" href="https://ajbozdar.github.io//about/">Abdul-Jabbar Bozdar</a>
     
     <br>
-    <time class="dt-published" datetime="2026-06-19 23:30:00 +0500" itemprop="datePublished">June 19, 2026</time>
+    <time class="dt-published" datetime="2024-09-06 17:14:00 +0500" itemprop="datePublished">September 06, 2024</time>
     <br>
     
+    
+    <small><span>Last modified on&nbsp;</span><time class="dt-modified" datetime="2026-09-06 18:55"
+        itemprop="dateModified">September 06, 2026</time></small>
     
     <br>
     <small>
-      <a href="https://ajbozdar.github.io//tags/#debian">#debian</a>
+      <a href="https://ajbozdar.github.io//tags/#programming">#programming</a>
     </small>
   </div>
 
-  <h1 class="post-title p-name" itemprop="name headline">Configure Private DNS on Debian</h1>
+  <h1 class="post-title p-name" itemprop="name headline">How to Install Scheme Language on Fedora</h1>
   <div class="post-line e-content" itemprop="articleBody"></div>
-  <p class="pitch">Here is a straight forward method to configure private dns on Debian.</p>
+  <p class="pitch">In this post, I am sharing how I installed the Scheme programming language on Fedora.</p>
   <div class="block-has-space"></div>
 
-  <p>Today, I installed Linux Mint Debian Edition on one of computers at home. After installation, I wanted to configure private DNS on it. However, it did not work as it was suppose to.</p>
+  <p>I am reading SICP book these days. The book uses scheme, a general purpose and
+dynamically typed dialect of the LISP programming language. My main purpose to read this book is
+to write beautiful programs, and scheme lang got a scheme to teach the beauty of
+programming.</p>
 
-<p>At first, I added my configs in <code class="language-plaintext highlighter-rouge">/etc/resolv.conf</code>. This was suppose to work after restarting, but it did not. This was because <code class="language-plaintext highlighter-rouge">systemctl</code> overrode <code class="language-plaintext highlighter-rouge">resolv.conf</code> as soon as I restarted it.</p>
+<p>Well, I wanted to jot down the steps here about my installation process on
+Fedora Linux for future needs. You may benefit.</p>
 
-<p>I realised that <code class="language-plaintext highlighter-rouge">systemd-resolved</code> never came pre-installed on Debian. I installed <code class="language-plaintext highlighter-rouge">systemd-resolved</code>, created <code class="language-plaintext highlighter-rouge">/etc/systemd/resolved.conf</code> with my configs, and restarted <code class="language-plaintext highlighter-rouge">systemd-resolved.service</code>.</p>
+<p>MIT has upgraded scheme as Racket language, so I needed MIT/GNU-Scheme binaries
+for Unix to install the compiler and REPL on Fedora. The installation procedure on <a href="https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-user/Unix-Installation.html">GNU webiste</a> is fairly simple. I already had <code class="language-plaintext highlighter-rouge">make</code>, <code class="language-plaintext highlighter-rouge">m4</code>, and <code class="language-plaintext highlighter-rouge">ncurses-devel</code> packages installed.</p>
 
-<p>And, that was all.</p>
+<p>Although instructions on the above page were straight forward, I still got a
+warning that make treated as an error.</p>
 
-<p>All set up, and happy networking!</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>In file included from chacha12.c:49:
+chacha.i:32:9: error: ‘_POSIX_C_SOURCE’ redefined [-Werror]
+   32 | #define _POSIX_C_SOURCE 200809L
+   |         ^~~~~~~~~~~~~~~
+In file included from /usr/include/bits/libc-header-start.h:33,
+                 from /usr/include/stdint.h:26,
+                 from /usr/lib/gcc/x86_64-redhat-linux/16/include/stdint.h:11,
+                 from chacha12.c:30:
+/usr/include/features.h:319:10: note: this is the location of the previous
+definition
+  319 | # define _POSIX_C_SOURCE        202405L
+      |          ^~~~~~~~~~~~~~~
+cc1: all warnings being treated as errors
+make[1]: *** [Makefile:182: chacha12.o] Error 1
+make: *** [Makefile:753: microcode/scheme] Error 2
+</code></pre></div></div>
 
-<h3 id="steps-to-configure-your-private-dns-on-debian">Steps to Configure Your Private DNS on Debian</h3>
+<p>This is an easy to detect error. My system headers defined latest <code class="language-plaintext highlighter-rouge">_POSIX_C_SOURCE</code> as
+<code class="language-plaintext highlighter-rouge">202405L</code>, and scheme source defines a redundant one. In my use case, I just
+commented out the scheme’s redundant definition, and ran <code class="language-plaintext highlighter-rouge">make install</code> again.</p>
 
-<ul>
-  <li>Install systemd-resolved <code class="language-plaintext highlighter-rouge">sudo apt install systemd-resolved</code></li>
-  <li>Create resolved.conf <code class="language-plaintext highlighter-rouge">sudo touch /etc/systemd/resolved.conf</code></li>
-  <li>Add configurations</li>
-  <li>Restart systemd-resolved <code class="language-plaintext highlighter-rouge">sudo systemctl restart systemd-resolved.service</code></li>
-</ul>
+<p>Voila, I got scheme running on Fedora Linux. C warnings are helpful, so keep
+<code class="language-plaintext highlighter-rouge">-Werror</code> flag on all the time.</p>
 
-<p>You are good to network now.</p>
+<p>Post proelium, praemium.</p>
+
+<p><strong>This post is valid for Fedora 44.</strong></p>
 
 
-  <a class="u-url" href="https://ajbozdar.github.io//configure-private-dns-debian/" hidden></a>
+  <a class="u-url" href="https://ajbozdar.github.io//install-scheme-language-fedora/" hidden></a>
 </article>
 
 </main>
